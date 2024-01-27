@@ -1,1 +1,3 @@
-
+# requirements.txt
+# This backlog file is empty, so the project has no backlogs.
+# This is normal for simple projects or projects that do not use third-party libraries.
